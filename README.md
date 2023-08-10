@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MustafaEnesKarababa
 - 👀 I’m interested in Progrramming
-- 🌱 I’m currently learning C# / JavaScript / SQL / ASP.NET MVC / WEB API
+- 🌱 I’m currently learning C# / JavaScript / HTML5 / CSS / MS SQL / ASP.NET MVC / WEB API
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nskarababa@gmail.com && https://www.linkedin.com/in/mustafaeneskarababa/
 
